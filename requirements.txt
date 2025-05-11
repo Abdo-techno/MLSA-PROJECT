@@ -1,5 +1,4 @@
 Flask
-textblob
-nltk
 scikit-learn
 pandas
+joblib
