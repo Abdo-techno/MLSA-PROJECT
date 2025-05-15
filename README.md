@@ -1,53 +1,8 @@
-# MLSA-PROJECT
-
-## 🏗️ Project Architecture
-
-The project follows a clean and modular structure:
-
-
-
-MLSA-PROJECT/
-│
-├── Data/
-│ └── Final Project MLSA- Dataset.csv
-│
-├── Note_Book/
-│ └── Customer Churn Prediction.ipynb
-│
-├── PDF_FILES/
-│ ├── Final Project- MLSA.pdf
-│ ├── MLSA.pdf
-│ └── MLSA.pptx
-│
-├── images/
-│ ├── output.png
-│ └── screenshot.png
-│
-├── static/
-│ ├── css/
-│ ├── js/
-│ └── images/
-│
-├── templates/
-│ └── index.html
-│
-├── app.py
-├── rf_model.joblib
-├── scaler.joblib
-├── requirements.txt
-├── Procfile
-└── README.md
-
 
 ### 🔄 Workflow
+
 ```txt
 User Input → Flask (app.py) → Preprocessing → Model Prediction → Output
-```
-# 📊 Customer Churn Prediction Web App
-
-This is a Flask-based web application that predicts whether a customer is likely to churn (leave a service) based on their service usage and contract information. The model is trained using a Random Forest Classifier and provides both the prediction and the probability of churn.
-
----
 
 ## 🚀 Features
 
