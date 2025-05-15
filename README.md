@@ -5,7 +5,6 @@
 The project follows a clean and modular structure:
 
 
----text
 
 MLSA-PROJECT/
 │
