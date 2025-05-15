@@ -1,7 +1,12 @@
----
-
 # 📊 MLSA-PROJECT — Customer Churn Prediction Web App
 
+
+![Made with ❤️ by MLSA](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20MLSA-blueviolet)
+![Open Source](https://img.shields.io/badge/Status-Open--Source-brightgreen)
+![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python)
+![GitHub Repo size](https://img.shields.io/github/repo-size/Abdo-techno/MLSA-PROJECT)
+![GitHub stars](https://img.shields.io/github/stars/Abdo-techno/MLSA-PROJECT?style=social)
+ 
 This is a Flask-based web application that predicts whether a customer is likely to churn (leave a service) based on their service usage and contract information. The model is trained using a **Random Forest Classifier** and provides both the prediction and the probability of churn.
 
 ---
