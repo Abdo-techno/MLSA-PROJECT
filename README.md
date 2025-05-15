@@ -81,13 +81,13 @@ Make sure the following files are present in the project directory:
 python app.py
 ```
 
-Then visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
+Then visit [https://mlsa-project-production.up.railway.app/](https://mlsa-project-production.up.railway.app/) in your browser.
 
 ---
 
 ## 📷 Screenshot
 
-> *Add a screenshot of your app interface here for better appeal.*
+![App Screenshot](screenshot.png)
 
 ---
 
@@ -110,6 +110,6 @@ Then visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 ## 🙌 Credits
 
-Developed by [Your Name](https://github.com/yourusername)
+Developed by [MLSA TEAM](MLSA TEAM)
 Inspired by real-world business needs for customer retention strategies.
 
