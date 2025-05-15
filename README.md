@@ -1,12 +1,11 @@
 <p align="center">
   <img src="images/mlsa-logo.png" alt="MLSA Logo" width="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 36px; font-weight: bold;">
-    📊 MLSA-PROJECT — Customer Churn Prediction Web App
-  </span>
+  <strong>📊 MLSA-PROJECT — Customer Churn Prediction Web App</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/TMP-png.png" alt="University Logo" width="150" />
 </p>
+
 
 
 
