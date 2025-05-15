@@ -1,7 +1,7 @@
 <p align="center">
   <img src="images/mlsa_logo.png" alt="MLSA Logo" width="120" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/university_logo.png" alt="University Logo" width="120" />
+  <img src="images/TMP-png.png" alt="University Logo" width="120" />
 </p>
 
 # 📊 MLSA-PROJECT — Customer Churn Prediction Web App
