@@ -1,6 +1,6 @@
 # MLSA-PROJECT
 
-
+---
 MLSA-PROJECT/
 │
 ├── Data/
@@ -34,7 +34,7 @@ MLSA-PROJECT/
 └── README.md                                    # Project documentation
 
 User Input → Flask (app.py) → Preprocessing & Encoding → Model Prediction → Output Rendered
-
+---
 
 # 📊 Customer Churn Prediction Web App
 
