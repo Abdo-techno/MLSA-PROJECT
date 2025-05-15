@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td><img src="images/mlsa-logo.png" alt="MLSA Logo" width="150" /></td>
-    <td width="50"></td> <!-- مسافة بين الصور -->
+    <td width="150"></td> 
     <td><img src="images/TMP-png.png" alt="University Logo" width="150" /></td>
   </tr>
 </table>
