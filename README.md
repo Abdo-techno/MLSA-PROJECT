@@ -1,43 +1,88 @@
+أكيد! إليك النسخة الكاملة من ملف `README.md` بعد التعديل والتحسين، وجاهزة للنسخ والاستخدام في مستودع GitHub الخاص بك:
 
-📊 Customer Churn Prediction Web App
-This is a Flask-based web application that predicts whether a customer is likely to churn (leave a service) based on their service usage and contract information. The model is trained using a Random Forest Classifier and provides both the prediction and the probability of churn.
+---
 
+# 📊 MLSA-PROJECT — Customer Churn Prediction Web App
+
+This is a Flask-based web application that predicts whether a customer is likely to churn (leave a service) based on their service usage and contract information. The model is trained using a **Random Forest Classifier** and provides both the prediction and the probability of churn.
+
+---
+
+## 🏗️ Project Architecture
+
+```
+MLSA-PROJECT/
+├── Data/
+│   └── Final Project MLSA- Dataset.csv
+├── Note_Book/
+│   └── Customer Churn Prediction.ipynb
+├── PDF_FILES/
+│   ├── Final Project- MLSA.pdf
+│   ├── MLSA.pdf
+│   └── MLSA.pptx
+├── images/
+│   ├── output.png
+│   └── screenshot.png
+├── static/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── templates/
+│   └── index.html
+├── app.py
+├── rf_model.joblib
+├── scaler.joblib
+├── requirements.txt
+├── Procfile
+└── README.md
+```
+
+---
+
+## 🔄 Workflow
+
+```
+User Input → Flask (app.py) → Preprocessing → Model Prediction → Output
+```
+
+---
 
 ## 🚀 Features
 
-- 🔍 **Churn Prediction** — Predict whether a customer will churn based on input data.
-- 📈 **Probability Score** — Displays the confidence percentage for each prediction.
-- 🎛️ **Auto-fill Defaults** — Pre-filled default values for quick testing.
-- ✅ **Input Validation & Handling** — Handles missing or invalid values intelligently.
-- 💡 **Label Encoding & Scaling** — Categorical and numerical preprocessing are applied consistently.
+* 🔍 **Churn Prediction** — Predict whether a customer will churn based on input data.
+* 📈 **Probability Score** — Displays the confidence percentage for each prediction.
+* 🎛️ **Auto-fill Defaults** — Pre-filled default values for quick testing.
+* ✅ **Input Validation & Handling** — Handles missing or invalid values intelligently.
+* 💡 **Label Encoding & Scaling** — Categorical and numerical preprocessing are applied consistently.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Flask** — Web framework for Python.
-- **scikit-learn** — For model training and preprocessing.
-- **Pandas** — Data manipulation.
-- **Joblib** — Model and scaler serialization.
-- **HTML + Jinja2** — For frontend templating.
+* **Flask** — Web framework for Python.
+* **scikit-learn** — For model training and preprocessing.
+* **Pandas** — Data manipulation.
+* **Joblib** — Model and scaler serialization.
+* **HTML + Jinja2** — For frontend templating.
 
 ---
 
 ## 🧠 Machine Learning Model
 
-- **Model:** Random Forest Classifier
-- **Target Variable:** Churn (Yes/No)
-- **Features Used:**
-  - Gender
-  - Tenure
-  - Internet Service
-  - Online Backup
-  - Tech Support
-  - Contract Type
-  - Payment Method
-  - Monthly Charges
-  - Total Charges
-  - Average Charges per Month
+* **Model:** Random Forest Classifier
+* **Target Variable:** `Churn` (Yes/No)
+* **Features Used:**
+
+  * Gender
+  * Tenure
+  * Internet Service
+  * Online Backup
+  * Tech Support
+  * Contract Type
+  * Payment Method
+  * Monthly Charges
+  * Total Charges
+  * Average Charges per Month
 
 ---
 
@@ -52,31 +97,23 @@ This is a Flask-based web application that predicts whether a customer is likely
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/churn-prediction-flask.git
-cd churn-prediction-flask
+git clone https://github.com/Abdo-techno/MLSA-PROJECT.git
+cd MLSA-PROJECT
 ```
-### 2. Install Dependencies
 
-Create a virtual environment (optional but recommended):
+### 2. Create Virtual Environment & Install Dependencies
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-```
-
-Then install the requirements:
-
-```bash
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 3. Add Required Files
+### 3. Make Sure Required Files Are Present
 
-Make sure the following files are present in the project directory:
-
-* `rf_model.joblib` — Trained Random Forest model
-* `scaler.joblib` — Scaler object used for numeric features
-* `templates/index.html` — HTML form interface
+* `rf_model.joblib`
+* `scaler.joblib`
+* `templates/index.html`
 
 ### 4. Run the App
 
@@ -84,13 +121,7 @@ Make sure the following files are present in the project directory:
 python app.py
 ```
 
-Then visit [https://mlsa-project-production.up.railway.app/](https://mlsa-project-production.up.railway.app/) in your browser.
-
----
-
-## 📷 Screenshot
-
-![App Screenshot](images/screenshot.png)
+Then visit: [https://mlsa-project-production.up.railway.app](https://mlsa-project-production.up.railway.app)
 
 ---
 
@@ -111,8 +142,18 @@ Then visit [https://mlsa-project-production.up.railway.app/](https://mlsa-projec
 
 ---
 
+## 📸 More Screenshots
+
+| Interface              | Screenshot                           |
+| ---------------------- | ------------------------------------ |
+| Prediction Result Page | ![output](images/output.png)         |
+| Web Form Input Page    | ![screenshot](images/screenshot.png) |
+
+---
+
 ## 🙌 Credits
 
-Developed by [MLSA TEAM](MLSA TEAM)
-Inspired by real-world business needs for customer retention strategies.
+Developed by **MLSA Student Ambassadors**
+Inspired by real-world business needs for customer retention.
 
+---
