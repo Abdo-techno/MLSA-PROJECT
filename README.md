@@ -1,5 +1,41 @@
 # MLSA-PROJECT
 
+
+MLSA-PROJECT/
+│
+├── Data/
+│   └── Final Project MLSA- Dataset.csv          # Dataset used for training/testing
+│
+├── Note_Book/
+│   └── Customer Churn Prediction.ipynb          # EDA, preprocessing, model training
+│
+├── PDF_FILES/
+│   ├── Final Project- MLSA.pdf                  # Final report
+│   ├── MLSA.pdf                                 # Additional docs
+│   └── MLSA.pptx                                # Presentation slides
+│
+├── images/
+│   ├── output.png                               # Model comparison chart
+│   └── screenshot.png                           # UI screenshot
+│
+├── static/
+│   ├── css/                                     # Styling files
+│   ├── js/                                      # Scripts
+│   └── images/                                  # Static assets
+│
+├── templates/
+│   └── index.html                               # Frontend HTML template
+│
+├── app.py                                       # Flask web application
+├── rf_model.joblib                              # Trained Random Forest model
+├── scaler.joblib                                # Scaler used in prediction
+├── requirements.txt                             # Python dependencies
+├── Procfile                                     # For Heroku deployment
+└── README.md                                    # Project documentation
+
+User Input → Flask (app.py) → Preprocessing & Encoding → Model Prediction → Output Rendered
+
+
 # 📊 Customer Churn Prediction Web App
 
 This is a Flask-based web application that predicts whether a customer is likely to churn (leave a service) based on their service usage and contract information. The model is trained using a Random Forest Classifier and provides both the prediction and the probability of churn.
