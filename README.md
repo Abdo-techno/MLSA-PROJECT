@@ -1,11 +1,13 @@
-# 📊 MLSA-PROJECT — Customer Churn Prediction Web App
+<table align="center">
+  <tr>
+    <td><img src="images/mlsa-logo.png" alt="MLSA Logo" width="150" /></td>
+    <td width="50"></td> <!-- مسافة بين الصور -->
+    <td><img src="images/TMP-png.png" alt="University Logo" width="150" /></td>
+  </tr>
+</table>
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 15%; align-items: center; padding: 20px 0;">
-    <img src="images/mlsa-logo.png" alt="MLSA Logo" width="150">
-    <img src="images/TMP-png.png" alt="University Logo" width="150">
-  </div>
-</div>
+<h2 align="center">📊 MLSA-PROJECT — Customer Churn Prediction Web App</h2>
+
 
 
 
