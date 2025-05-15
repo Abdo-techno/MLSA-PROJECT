@@ -1,6 +1,7 @@
 # MLSA-PROJECT
 
 ---
+
 MLSA-PROJECT/
 │
 ├── Data/
@@ -32,6 +33,7 @@ MLSA-PROJECT/
 ├── requirements.txt                             # Python dependencies
 ├── Procfile                                     # For Heroku deployment
 └── README.md                                    # Project documentation
+🔄 Workflow
 
 User Input → Flask (app.py) → Preprocessing & Encoding → Model Prediction → Output Rendered
 ---
