@@ -5,7 +5,7 @@
 MLSA-PROJECT/
 │
 ├── Data/
-│   └── Final Project MLSA- Dataset.csv          # Dataset used for training/testing
+│   └── Final Project MLSA- Dataset.csv          
 │
 ├── Note_Book/
 │   └── Customer Churn Prediction.ipynb          # EDA, preprocessing, model training
