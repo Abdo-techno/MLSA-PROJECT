@@ -38,9 +38,12 @@ MLSA-PROJECT/
 ├── requirements.txt                             # Python dependencies
 ├── Procfile                                     # For Heroku deployment
 └── README.md                                    # Project documentation
-🔄 Workflow
 
-User Input → Flask (app.py) → Preprocessing & Encoding → Model Prediction → Output Rendered
+
+### 🔄 Workflow
+
+```txt
+User Input → Flask (app.py) → Preprocessing → Model Prediction → Output
 ---
 
 # 📊 Customer Churn Prediction Web App
