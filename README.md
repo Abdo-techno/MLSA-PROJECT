@@ -1,10 +1,10 @@
 <p align="center">
   <img src="images/mlsa-logo.png" alt="MLSA Logo" width="150" />
-  <p>📊 MLSA-PROJECT — Customer Churn Prediction Web App</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>📊 MLSA-PROJECT — Customer Churn Prediction Web App</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/TMP-png.png" alt="University Logo" width="150" />
 </p>
-
-# 📊 MLSA-PROJECT — Customer Churn Prediction Web App
 
 ![Made with ❤️ by MLSA](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20MLSA-blueviolet)
 ![Open Source](https://img.shields.io/badge/Status-Open--Source-brightgreen)
