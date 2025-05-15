@@ -1,8 +1,7 @@
 
-### 🔄 Workflow
+📊 Customer Churn Prediction Web App
+This is a Flask-based web application that predicts whether a customer is likely to churn (leave a service) based on their service usage and contract information. The model is trained using a Random Forest Classifier and provides both the prediction and the probability of churn.
 
-```txt
-User Input → Flask (app.py) → Preprocessing → Model Prediction → Output
 
 ## 🚀 Features
 
