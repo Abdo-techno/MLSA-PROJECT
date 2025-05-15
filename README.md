@@ -1,5 +1,10 @@
-# 📊 MLSA-PROJECT — Customer Churn Prediction Web App
+<p align="center">
+  <img src="images/mlsa_logo.png" alt="MLSA Logo" width="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/university_logo.png" alt="University Logo" width="120" />
+</p>
 
+# 📊 MLSA-PROJECT — Customer Churn Prediction Web App
 
 ![Made with ❤️ by MLSA](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20MLSA-blueviolet)
 ![Open Source](https://img.shields.io/badge/Status-Open--Source-brightgreen)
