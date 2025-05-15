@@ -93,7 +93,7 @@ Then visit [https://mlsa-project-production.up.railway.app/](https://mlsa-projec
 
 ## 📷 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](images/screenshot.png)
 
 ---
 
