@@ -1,13 +1,11 @@
-<p align="center">
-  <img src="images/mlsa-logo.png" alt="MLSA Logo" width="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/TMP-png.png" alt="University Logo" width="150" />
-</p>
+# 📊 MLSA-PROJECT — Customer Churn Prediction Web App
 
-<h2 align="center">📊 MLSA-PROJECT — Customer Churn Prediction Web App</h2>
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 15%; align-items: center; padding: 20px 0;">
+    <img src="images/mlsa-logo.png" alt="MLSA Logo" width="150">
+    <img src="images/TMP-png.png" alt="University Logo" width="150">
+  </div>
+</div>
 
 
 
