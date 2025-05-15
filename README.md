@@ -10,7 +10,7 @@
   <img src="images/TMP-png.png" alt="University Logo" width="150" />
 </p>
 
-<h1 align="center">📊 MLSA-PROJECT — Customer Churn Prediction Web App</h1>
+<h2 align="center">📊 MLSA-PROJECT — Customer Churn Prediction Web App</h2>
 
 
 
