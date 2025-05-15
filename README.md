@@ -44,6 +44,12 @@ This is a Flask-based web application that predicts whether a customer is likely
 
 ---
 
+## 📷 Screenshot
+
+![App Screenshot](output.png)
+
+---
+
 ## 💻 How to Run Locally
 
 ### 1. Clone the Repository
