@@ -46,7 +46,7 @@ This is a Flask-based web application that predicts whether a customer is likely
 
 ## 📷 Screenshot
 
-![App Screenshot](output.png)
+![App Screenshot](images/output.png)
 
 ---
 
