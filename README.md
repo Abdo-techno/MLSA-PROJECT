@@ -1,5 +1,10 @@
 # MLSA-PROJECT
 
+## 🏗️ Project Architecture
+
+The project follows a clean and modular structure:
+
+
 ---
 
 MLSA-PROJECT/
