@@ -5,40 +5,40 @@
 The project follows a clean and modular structure:
 
 
----
+---text
 
 MLSA-PROJECT/
 │
 ├── Data/
-│   └── Final Project MLSA- Dataset.csv          
+│ └── Final Project MLSA- Dataset.csv
 │
 ├── Note_Book/
-│   └── Customer Churn Prediction.ipynb          # EDA, preprocessing, model training
+│ └── Customer Churn Prediction.ipynb
 │
 ├── PDF_FILES/
-│   ├── Final Project- MLSA.pdf                  # Final report
-│   ├── MLSA.pdf                                 # Additional docs
-│   └── MLSA.pptx                                # Presentation slides
+│ ├── Final Project- MLSA.pdf
+│ ├── MLSA.pdf
+│ └── MLSA.pptx
 │
 ├── images/
-│   ├── output.png                               # Model comparison chart
-│   └── screenshot.png                           # UI screenshot
+│ ├── output.png
+│ └── screenshot.png
 │
 ├── static/
-│   ├── css/                                     # Styling files
-│   ├── js/                                      # Scripts
-│   └── images/                                  # Static assets
+│ ├── css/
+│ ├── js/
+│ └── images/
 │
 ├── templates/
-│   └── index.html                               # Frontend HTML template
+│ └── index.html
 │
-├── app.py                                       # Flask web application
-├── rf_model.joblib                              # Trained Random Forest model
-├── scaler.joblib                                # Scaler used in prediction
-├── requirements.txt                             # Python dependencies
-├── Procfile                                     # For Heroku deployment
-└── README.md                                    # Project documentation
-
+├── app.py
+├── rf_model.joblib
+├── scaler.joblib
+├── requirements.txt
+├── Procfile
+└── README.md
+```
 
 ### 🔄 Workflow
 ```txt
