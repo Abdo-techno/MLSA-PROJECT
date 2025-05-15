@@ -1,12 +1,10 @@
 <table align="center">
   <tr>
-    <td><img src="images/mlsa-logo.png" alt="MLSA Logo" width="150" /></td>
+    <td><img src="images/mlsa-logo.png" alt="MLSA Logo" width="200" /></td>
     <td width="800"><h2 align="center">📊 MLSA-PROJECT — Customer Churn Prediction Web App</h2></td> 
-    <td><img src="images/TMP-png.png" alt="University Logo" width="150" /></td>
+    <td><img src="images/TMP-png.png" alt="University Logo" width="200" /></td>
   </tr>
 </table>
-
-<h2 align="center">📊 MLSA-PROJECT — Customer Churn Prediction Web App</h2>
 
 
 
